@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588312043235",
+    "project_id": "bantusesama-e0653",
+    "storage_bucket": "bantusesama-e0653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588312043235:android:a882dd08d824672aa26fd6",
+        "android_client_info": {
+          "package_name": "com.delixha.bantusesama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588312043235-q9msqtejqii34324ajlubsrn73hdvvlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxQjH3PN8GHAa9TKB2Nm6wYhqjaWho30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588312043235-q9msqtejqii34324ajlubsrn73hdvvlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
